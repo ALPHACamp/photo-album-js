@@ -37,6 +37,7 @@ gem 'jbuilder', '~> 2.5'
 gem 'carrierwave'
 gem 'devise'
 gem 'rest-client'
+gem 'rack-cors', :require => 'rack/cors'
 
 group :production do
   # gem 'pg'
