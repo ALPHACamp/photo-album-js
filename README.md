@@ -6,6 +6,17 @@
 http://35.185.111.183/api/v1/{router}
 ```
 
+## API List
+- [Photo Index](https://github.com/ALPHACamp/photo-album-js#photos-index)
+- [Show Photo](https://github.com/ALPHACamp/photo-album-js#show-photo)
+- [Create Photo](https://github.com/ALPHACamp/photo-album-js#create-photo)
+- [Update Photo](https://github.com/ALPHACamp/photo-album-js#update-photo)
+- [Delete Photo](https://github.com/ALPHACamp/photo-album-js#delete-photo)
+- [Sign up](https://github.com/ALPHACamp/photo-album-js#sign-up)
+- [Login](https://github.com/ALPHACamp/photo-album-js#login)
+- [Logout](https://github.com/ALPHACamp/photo-album-js#logout)
+
+
 ## Photos Index
 
 #### Method & URL
