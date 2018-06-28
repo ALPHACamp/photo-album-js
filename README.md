@@ -38,7 +38,6 @@ None
       "file_location": {
         "url": "/uploads/photo/file_location/1/myra-birthday.png"
       }
-    }
     },
     {
       "id": 2,
