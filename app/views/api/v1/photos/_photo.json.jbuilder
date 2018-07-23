@@ -1,1 +1,1 @@
-json.(photo, :id, :title, :description, :file_location)
+json.(photo, :id, :title, :date, :description, :file_location)
