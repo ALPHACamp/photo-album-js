@@ -34,6 +34,7 @@ None
     {
       "id": 1,
       "title": "Myra's Birthday",
+      "date": "2013-02-02",
       "description": "This is my favourite photo",
       "file_location": {
         "url": "/uploads/photo/file_location/1/myra-birthday.png"
@@ -42,6 +43,7 @@ None
     {
       "id": 2,
       "title": "Family outing",
+      "date": "2014-11-13",
       "description": "Spending some time at the park after a long week.",
       "file_location": {
         "url": "/uploads/photo/file_location/1/family-outint.png"
@@ -75,6 +77,7 @@ GET /photos/:id
 {
   "id": 1,
   "title": "Myra's Birthday",
+  "date": "2013-02-02",
   "description": "This is my favourite photo",
   "file_location": {
     "url": "/uploads/photo/file_location/1/myra-birthday.png"
