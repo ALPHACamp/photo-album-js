@@ -35,7 +35,7 @@ ENTRYPOINT ["bundle", "exec", "puma", "-C", "config/puma.rb"]
 ## Local build & run & debug
 
 # docker build . -t photo-app
-# docker run -v $(pwd)/photo-album.sqlite3:/app/db/production.sqlite3 -p 4001:3000 photo-app
+# docker run -v $(pwd)/db/photo-album.sqlite3:/app/db/production.sqlite3 -p 4001:3000 photo-app
 
 # docker exec -it <CONTAINER ID> bash
 
